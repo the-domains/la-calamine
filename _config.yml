@@ -1,0 +1,29 @@
+name: La Calamine
+favicon: null
+layout_spectrum: 0.7187061761505902
+typography_spectrum: 0.4683980531990528
+title: Eine aussergewöhnliche 200jährige Geschichte
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.1574436598457396
+  lightness: 0.7754067985806614
+  saturation: 0.6113965741824359
+  rhythmicContrast: 0.5598867691587657
+purpose: []
