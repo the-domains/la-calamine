@@ -1,5 +1,5 @@
 ---
-inFeed: false
+inFeed: true
 hasPage: true
 inNav: true
 inLanguage: null
@@ -9,8 +9,8 @@ description: >-
   im Freien bewegen wollen oder nur am Wasser Entspannung suchen. Kelmis ist
   überhaupt keine stressvolle Stadt, in Gegenzug zu Aachen, strahlt sie Ruhe und
   Bescheidenheit aus.
-datePublished: '2016-08-21T21:37:07.568Z'
-dateModified: '2016-08-21T21:36:58.593Z'
+datePublished: '2016-08-21T21:40:34.030Z'
+dateModified: '2016-08-21T21:40:05.359Z'
 title: Der Kasinoweiher
 author: []
 via: {}
@@ -23,7 +23,7 @@ publisher:
   favicon: null
 starred: false
 url: der-kasinoweiher-mitten-in-der-stadt-natur-und-erholung-f/index.html
-_type: WebPage
+_type: Article
 
 ---
 # Der Kasinoweiher
