@@ -4,8 +4,15 @@
         <description><![CDATA[Eine aussergewöhnliche 200jährige Geschichte]]></description>
         <link>https://thegrid.ai/la-calamine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 21:12:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 21:13:33 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/la-calamine/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[La Calamine - Kelmis]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3898f13-bf0e-4da2-9d2a-34feaafb3f08.jpg">]]></description>
+            <link>https://thegrid.ai/la-calamine/la-calamine-oder-kelmis-eine-stadt-die-eben-200-jahre-gefei/index.html</link>
+            <guid isPermaLink="false">9bee3be3-87d3-4f1d-bbb6-44d5f9446f20</guid>
+            <pubDate>Sun, 21 Aug 2016 21:13:31 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Karneval in Kelmis]]></title>
             <description><![CDATA[<article><h1>Karneval in Kelmis</h1><p>Karneval oder Fasching ist in Kelmis eine grosse Sache. Eine ganze Woche wird gefeiert. Alle gehen auf die Strasse in bunten Kostümen. Für die Kinder ist es ein ganz besonderer Sonderurlaub.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/51d32716-c97a-4b3f-aca4-45f0a3db49ab.jpg"></article>]]></description>
@@ -19,13 +26,6 @@
             <link>https://thegrid.ai/la-calamine/ie-g/index.html</link>
             <guid isPermaLink="false">b4e6abb5-47ad-4372-9416-0b39d0226d87</guid>
             <pubDate>Sun, 21 Aug 2016 21:10:37 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[La Calamine - Kelmis]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3898f13-bf0e-4da2-9d2a-34feaafb3f08.jpg">]]></description>
-            <link>https://thegrid.ai/la-calamine/la-calamine-oder-kelmis-eine-stadt-die-eben-200-jahre-gefei/index.html</link>
-            <guid isPermaLink="false">9bee3be3-87d3-4f1d-bbb6-44d5f9446f20</guid>
-            <pubDate>Sun, 21 Aug 2016 21:06:55 GMT</pubDate>
         </item>
     </channel>
 </rss>
