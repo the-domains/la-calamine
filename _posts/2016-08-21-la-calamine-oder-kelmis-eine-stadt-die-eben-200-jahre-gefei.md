@@ -1,7 +1,7 @@
 ---
 inFeed: true
-hasPage: false
-inNav: false
+hasPage: true
+inNav: true
 inLanguage: null
 keywords: []
 description: >-
@@ -9,8 +9,8 @@ description: >-
   so beeindruckt von der aussergewöhnlichen Geschichte dieser ländlichen Stadt,
   dass ich mich entschlossen habe, darüber zu berichten und gleichzeitig das
   Projekt The Grid auszuprobieren.
-datePublished: '2016-08-21T21:21:12.626Z'
-dateModified: '2016-08-21T21:21:08.958Z'
+datePublished: '2016-08-21T21:26:37.160Z'
+dateModified: '2016-08-21T21:26:10.854Z'
 title: ''
 author: []
 via: {}
@@ -19,7 +19,8 @@ sourcePath: >-
 authors: []
 publisher: {}
 starred: false
-_type: Blurb
+url: kelmis-la-calamine/index.html
+_type: Article
 
 ---
 # Kelmis - La Calamine
