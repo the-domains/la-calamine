@@ -9,8 +9,8 @@ description: >-
   neutrale Schule, hier sind Kinder vieler Kulturen und Religionen, die
   Französisch und Deutsch gleichermassen lernen. Die Schule hier in Kelmis ist
   relativ streng und die Kinder werden gut diszipliniert.
-datePublished: '2016-08-21T21:11:20.922Z'
-dateModified: '2016-08-21T21:11:16.204Z'
+datePublished: '2016-08-21T21:18:41.737Z'
+dateModified: '2016-08-21T21:16:07.596Z'
 title: Cesar Franck Atheneum
 author: []
 via: {}
