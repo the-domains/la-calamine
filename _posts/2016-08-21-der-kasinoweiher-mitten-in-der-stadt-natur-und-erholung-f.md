@@ -9,8 +9,8 @@ description: >-
   im Freien bewegen wollen oder nur am Wasser Entspannung suchen. Kelmis ist
   überhaupt keine stressvolle Stadt, in Gegenzug zu Aachen, strahlt sie Ruhe und
   Bescheidenheit aus.
-datePublished: '2016-08-21T21:12:59.059Z'
-dateModified: '2016-08-21T21:12:45.106Z'
+datePublished: '2016-08-21T21:16:16.973Z'
+dateModified: '2016-08-21T21:13:11.988Z'
 title: ''
 author: []
 via: {}
