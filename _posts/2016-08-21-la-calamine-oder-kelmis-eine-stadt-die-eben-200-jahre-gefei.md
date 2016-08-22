@@ -9,8 +9,8 @@ description: >-
   so beeindruckt von der aussergewöhnlichen Geschichte dieser ländlichen Stadt,
   dass ich mich entschlossen habe, darüber zu berichten und gleichzeitig das
   Projekt The Grid auszuprobieren.
-datePublished: '2016-08-21T21:40:09.353Z'
-dateModified: '2016-08-21T21:38:04.484Z'
+datePublished: '2016-08-21T21:40:24.948Z'
+dateModified: '2016-08-21T21:40:19.428Z'
 title: Kelmis - La Calamine
 author: []
 via: {}
@@ -18,7 +18,7 @@ sourcePath: >-
   _posts/2016-08-21-la-calamine-oder-kelmis-eine-stadt-die-eben-200-jahre-gefei.md
 authors: []
 publisher: {}
-starred: false
+starred: true
 url: kelmis-la-calamine/index.html
 _type: Article
 
