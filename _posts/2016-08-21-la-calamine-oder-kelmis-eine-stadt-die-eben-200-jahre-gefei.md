@@ -8,8 +8,8 @@ description: >-
   La Calamine oder Kelmis, eine Stadt die eben 200 Jahre gefeiert hat. Ich war
   so beeindruckt von der aussergewöhnlichen Geschichte dieser ländlichen Stadt,
   dass ich 
-datePublished: '2016-08-21T20:55:54.312Z'
-dateModified: '2016-08-21T20:55:42.140Z'
+datePublished: '2016-08-21T21:06:55.044Z'
+dateModified: '2016-08-21T21:02:20.042Z'
 title: ''
 author: []
 via: {}
