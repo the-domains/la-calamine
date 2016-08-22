@@ -1,8 +1,7 @@
 name: La Calamine
 favicon: null
-layout_spectrum: 0.75964
+layout_spectrum: 0.7187061761505902
 typography_spectrum: 0.4683980531990528
-title: Die 200-jährige Geschichte Kelmis
 cta:
   domain: null
   bucket: null
@@ -22,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.3125
-  lightness: 0.6875
-  saturation: 0.6875
+  brandStrength: 0.1574436598457396
+  lightness: 0.7754067985806614
+  saturation: 0.6113965741824359
   rhythmicContrast: 0.5598867691587657
 purpose: []
