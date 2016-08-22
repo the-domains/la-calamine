@@ -9,8 +9,8 @@ description: >-
   so beeindruckt von der aussergewöhnlichen Geschichte dieser ländlichen Stadt,
   dass ich mich entschlossen habe, darüber zu berichten und gleichzeitig das
   Projekt The Grid auszuprobieren.
-datePublished: '2016-08-21T21:37:55.525Z'
-dateModified: '2016-08-21T21:37:29.637Z'
+datePublished: '2016-08-21T21:40:09.353Z'
+dateModified: '2016-08-21T21:38:04.484Z'
 title: Kelmis - La Calamine
 author: []
 via: {}
