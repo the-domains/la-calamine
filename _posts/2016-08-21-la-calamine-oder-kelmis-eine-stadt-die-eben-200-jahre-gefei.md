@@ -8,8 +8,8 @@ description: >-
   La Calamine oder Kelmis, eine Stadt die eben 200 Jahre gefeiert hat. Ich war
   so beeindruckt von der aussergewöhnlichen Geschichte dieser ländlichen Stadt,
   dass ich 
-datePublished: '2016-08-21T21:06:55.044Z'
-dateModified: '2016-08-21T21:02:20.042Z'
+datePublished: '2016-08-21T21:13:31.847Z'
+dateModified: '2016-08-21T21:13:28.792Z'
 title: ''
 author: []
 via: {}
@@ -22,6 +22,7 @@ url: la-calamine-oder-kelmis-eine-stadt-die-eben-200-jahre-gefei/index.html
 _type: Article
 
 ---
+# Kelmis - La Calamine
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3898f13-bf0e-4da2-9d2a-34feaafb3f08.jpg)
 
 La Calamine oder Kelmis, eine Stadt die eben 200 Jahre gefeiert hat. Ich war so beeindruckt von der aussergewöhnlichen Geschichte dieser ländlichen Stadt, dass ich
