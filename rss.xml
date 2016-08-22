@@ -4,7 +4,7 @@
         <description><![CDATA[Eine aussergewöhnliche 200jährige Geschichte]]></description>
         <link>https://thegrid.ai/la-calamine/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sun, 21 Aug 2016 21:36:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Aug 2016 21:38:00 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/la-calamine/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Karneval in Kelmis]]></title>
@@ -14,18 +14,18 @@
             <pubDate>Sun, 21 Aug 2016 21:33:08 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Kelmis - La Calamine]]></title>
+            <description><![CDATA[<article><h1>Kelmis - La Calamine</h1><p>La Calamine oder Kelmis, eine Stadt die eben 200 Jahre gefeiert hat. Ich war so beeindruckt von der aussergewöhnlichen Geschichte dieser ländlichen Stadt, dass ich mich entschlossen habe, darüber zu berichten und gleichzeitig das Projekt The Grid auszuprobieren.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3898f13-bf0e-4da2-9d2a-34feaafb3f08.jpg"></article>]]></description>
+            <link>https://thegrid.ai/la-calamine/kelmis-la-calamine/index.html</link>
+            <guid isPermaLink="false">9bee3be3-87d3-4f1d-bbb6-44d5f9446f20</guid>
+            <pubDate>Sun, 21 Aug 2016 21:37:55 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Cesar Franck Atheneum]]></title>
             <description><![CDATA[<article><h1>Cesar Franck Atheneum</h1><p>Die ACF Schule, begannt für das Projekt bilinguale Schule. Es ist eine neutrale Schule, hier sind Kinder vieler Kulturen und Religionen, die Französisch und Deutsch gleichermassen lernen. Die Schule hier in Kelmis ist relativ streng und die Kinder werden gut diszipliniert.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/c63d137e-f2e2-4e4e-9744-462e52a0d69d.jpg"></article>]]></description>
             <link>https://thegrid.ai/la-calamine/die-acf-schule-begannt-fur-das-projekt-bilinguale-schule-e/index.html</link>
             <guid isPermaLink="false">47ea62bf-4644-44f7-a4c8-83f4607410ef</guid>
             <pubDate>Sun, 21 Aug 2016 21:28:04 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Kelmis - La Calamine]]></title>
-            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/a3898f13-bf0e-4da2-9d2a-34feaafb3f08.jpg">]]></description>
-            <link>https://thegrid.ai/la-calamine/kelmis-la-calamine/index.html</link>
-            <guid isPermaLink="false">9bee3be3-87d3-4f1d-bbb6-44d5f9446f20</guid>
-            <pubDate>Sun, 21 Aug 2016 21:26:37 GMT</pubDate>
         </item>
     </channel>
 </rss>
