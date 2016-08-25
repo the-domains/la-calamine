@@ -34,6 +34,9 @@ navigation:
   - name: Karneval in Kelmis
     id: c4204654-2dd9-4e7c-aa86-fac0f5876690
     type: content
+  - name: Cesar Franck Atheneum
+    id: 47ea62bf-4644-44f7-a4c8-83f4607410ef
+    type: content
 favicon: null
 title: Die 200-jährige Geschichte Kelmis
 purpose: []
