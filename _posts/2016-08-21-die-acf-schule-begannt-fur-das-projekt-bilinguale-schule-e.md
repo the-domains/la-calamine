@@ -9,19 +9,15 @@ description: >-
   neutrale Schule, hier sind Kinder vieler Kulturen und Religionen, die
   Französisch und Deutsch gleichermassen lernen. Die Schule hier in Kelmis ist
   relativ streng und die Kinder werden gut diszipliniert.
-datePublished: '2016-08-21T21:28:04.883Z'
-dateModified: '2016-08-21T21:27:52.009Z'
+datePublished: '2016-08-25T15:27:27.798Z'
+dateModified: '2016-08-25T15:27:27.249Z'
 title: Cesar Franck Atheneum
 author: []
 via: {}
 sourcePath: >-
   _posts/2016-08-21-die-acf-schule-begannt-fur-das-projekt-bilinguale-schule-e.md
 authors: []
-publisher:
-  name: null
-  domain: null
-  url: null
-  favicon: null
+publisher: {}
 starred: false
 url: die-acf-schule-begannt-fur-das-projekt-bilinguale-schule-e/index.html
 _type: Article
