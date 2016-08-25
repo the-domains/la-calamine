@@ -1,4 +1,3 @@
-layout_spectrum: 0.7527822693809867
 typography_spectrum: 0.8145092411432415
 color:
   brandColors:
@@ -11,19 +10,24 @@ color:
   lightness: 0.0034443794284015894
   saturation: 0.07229659962467849
   rhythmicContrast: 0.5004080939106643
-name: La Calamine
-favicon: null
-title: Die 200-jährige Geschichte Kelmis
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
 opengraph:
   image: null
   type: null
   appId: null
+layout_spectrum: 0.7527822693809867
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+name: La Calamine
+cta:
+  domain: null
+  bucket: null
+  version: null
+navigation:
+  - name: Die Gemeinde Kelmis
+    id: b4e6abb5-47ad-4372-9416-0b39d0226d87
+    type: content
+favicon: null
+title: Die 200-jährige Geschichte Kelmis
 purpose: []
