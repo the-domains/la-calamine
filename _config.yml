@@ -28,6 +28,9 @@ navigation:
   - name: Die Gemeinde Kelmis
     id: b4e6abb5-47ad-4372-9416-0b39d0226d87
     type: content
+  - name: Der Kasinoweiher
+    id: 8ae3f5a3-43e2-4930-995f-cf05a5d723cc
+    type: content
 favicon: null
 title: Die 200-jährige Geschichte Kelmis
 purpose: []
