@@ -31,6 +31,9 @@ navigation:
   - name: Der Kasinoweiher
     id: 8ae3f5a3-43e2-4930-995f-cf05a5d723cc
     type: content
+  - name: Karneval in Kelmis
+    id: c4204654-2dd9-4e7c-aa86-fac0f5876690
+    type: content
 favicon: null
 title: Die 200-jährige Geschichte Kelmis
 purpose: []
